@@ -1,7 +1,8 @@
 # weather-forecasting 
-This project analyzes and forecasts weather patterns (temperature trends) for 10 major cities using real-world daily climate data.
-The goal is to understand:
-* City-wise climate behavior
-* Whether each city’s temperature pattern is stationary
-* Best-fit AR / MA time-series model
-* Future temperature forecasts
+This project performs a complete time-series weather analysis and forecasting for 10 cities using daily temperature data.
+It includes:
+* Exploratory Data Analysis (EDA)
+* Stationarity testing (ADF, KPSS, KS test)
+* AR & MA model building
+* 10-step forecasting
+* Data visualizations for each city
